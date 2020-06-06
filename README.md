@@ -8,6 +8,6 @@ death rates using RStudio with geographic mapping.
 covid-19-widget creates an interactive widget using Python & bokeh to visualize daily case numbers
 for each country where covid-19 cases have been recorded.  
 
-Note: The two external .png figures for the pie chart of top cases and 
-timeline of infection recordings were generated with r-plotly and do not render
-in offline mode within the R Jupter notebook. Their code, however, is recorded there. 
+Note: Figures generated through r-plotly or bokeh and do not render
+in Jupyter offline mode. Their code, however, is recorded in
+the respective notebook.
